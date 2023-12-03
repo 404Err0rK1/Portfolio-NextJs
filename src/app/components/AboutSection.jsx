@@ -53,12 +53,12 @@ const AboutSection = () => {
     <section className="text-white" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
         <Image
-          src="/images/projects/desktop computer-bro.svg"
+          src="/images/projects/Startup-life-amico.svg"
           width={500}
           height={500}
           alt="bg"
           style={{
-            transform:'rotateY(180deg)'
+            // transform:'rotateY(180deg)'
           }}
 
         />
